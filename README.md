@@ -9,7 +9,7 @@ This Manager README is meant to serve as an onboarding document to my management
 
 * I strive to create an environment where interruptions are minimal (most of the interrupts are routed to me), and context switching is avoided as much as possible.  As a consequence, I expect this to enable you to have prolonged focus on project work.
 
-* Assume good intent.  This is especially true when dealing with anyone in a remote capacity where face-to-face contact is not a regular occurance.
+* Assume good intent.  This is especially true when dealing with anyone in a remote capacity where face-to-face contact is not a regular occurence.
 
 * I expect a strong culture of knowledge sharing in teams I manage.  Everyone should be familiar with all technologies and processes the team supports.  Some individuals will have deeper knowledge in certain areas, but everyone should be familiar with the basics of everything the team is responsible for.
 
@@ -20,7 +20,7 @@ This Manager README is meant to serve as an onboarding document to my management
 ## What you can expect of me:
 * I highly value transparency and strive to be open, honest and approachable.  I want you to feel comfortable asking me anything work-related.  There are some things I may not be able to share, but I am committed to never lying to you.
 
-* I follow the [Servant Leadership Philosophy](https://en.wikipedia.org/wiki/Servant_leadership).  I am here to empower you to achieve both your goals and the team’s objectives, but you are in the driver’s seat!
+* I follow the [servant leadership philosophy](https://en.wikipedia.org/wiki/Servant_leadership).  I am here to empower you to achieve both your goals and the team’s objectives, but you are in the driver’s seat!
 
 * You can expect me to have a recurring 1:1 with you.  This meeting is _not_ intended for status updates, and is meant to cover bigger-picture items like career development, strategizing on goals, or anything generally of substance.  That said, this meeting is for you, and we’ll discuss whatever you like.
 
