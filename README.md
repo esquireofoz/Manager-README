@@ -9,6 +9,8 @@ This Manager README is meant to serve as an onboarding document to my management
 
 * I strive to create an environment where interruptions are minimal (most of the interrupts are routed to me), and context switching is avoided as much as possible.  As a consequence, I expect this to enable you to have prolonged focus on project work.
 
+* Solicit initial feedback early and ship often.  I have found early, light-weight reviews and iterating rapidly on small chunks of work to be beneficial to successful outcomes.
+
 * Assume good intent.  This is especially true when dealing with anyone in a remote capacity where face-to-face contact is not a regular occurence.
 
 * I expect a strong culture of knowledge sharing in teams I manage.  Everyone should be familiar with all technologies and processes the team supports.  Some individuals will have deeper knowledge in certain areas, but everyone should be familiar with the basics of everything the team is responsible for.
