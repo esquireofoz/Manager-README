@@ -14,8 +14,8 @@ Welcome (temporarily) to the team!  Although this engagement isn't permanent, le
 
 * You will be added to all team meetings (e.g., sprint planning, standup, project meetings, fun stuff, etc.) for the duration of your embedding
 
-* You will have regularly scheduled 1:1s with me
+* You will have regularly scheduled weekly 1:1s with me
 
 
 ## What's next:
-* That's it.  We appreciate this opportunity to work together, and I hope we learn a lot from the experience and have fun!
+* That's it - I appreciate this opportunity for us to work together, and I hope we learn a lot from the experience and have fun!
