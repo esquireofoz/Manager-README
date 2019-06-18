@@ -25,7 +25,9 @@ Welcome to the team for your internship!  Although this engagement isn't permane
 ## General Advice
 * Get to know your fellow interns -- the diversity of backgrounds and experience with the different teams they are interning on is very valuable.  The more you can learn from your peers, the better!
 
-* Get outside of your comfort zone and don't be afraid to make mistakes.  Internships are great opportunities to explore different options -- you should be experimenting and pushing yourself!
+* Get outside of your comfort zone and don't be afraid to make mistakes. You won't be put in a position where mistakes will do major damage (until you are ready). Internships are great opportunities to explore different options -- you should be experimenting and pushing yourself!
+
+* Remember, **ask a lot of questions**!! You are not expected to know everything right away. If you're struggling with something, chances are someone else has struggled with it before and will be happy to help out.
 
 * Take advantage of the time in your host city for the internship.  Resources like [Time Out](https://www.timeout.com/) and [Wikitravel](https://wikitravel.org/en/Main_Page) are great resources for getting ideas about things to do.
 
