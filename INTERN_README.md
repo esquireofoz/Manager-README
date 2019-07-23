@@ -29,6 +29,8 @@ Welcome to the team for your internship!  Although this engagement isn't permane
 
 * Remember, **ask a lot of questions**!! You are not expected to know everything right away. If you're struggling with something, chances are someone else has struggled with it before and will be happy to help out.
 
+* There’s a lot to take in and it’s not unusual to feel overwhelmed at some point during your internship. Don’t try to learn everything at once, compartmentalize and focus on what you need to do to accomplish one task at a time. Asking for help, taking a break and taking some deep breaths, letting a problem breathe for a day, or finding a private room to do some deep work on a single task can all be good options if you feel stuck in a rut. Also remember, there will be days when you make rapid progress writing lots of code and days when you spend hours debugging a single line. This is part of the process and completely okay!
+
 * Take advantage of the time in your host city for the internship.  Resources like [Time Out](https://www.timeout.com/) and [Wikitravel](https://wikitravel.org/en/Main_Page) are great resources for getting ideas about things to do.
 
 ## What's next:
