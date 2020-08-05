@@ -7,7 +7,7 @@ This Manager README is meant to serve as an onboarding document to my management
 
 * I expect you to be the one moving projects forward.  As a manager, I am here to help and support you with any roadblocks, questions, or escalations you may require assistance with, but ultimately (if I have enabled you correctly) __you__ are responsible for moving the needle.
 
-* I strive to create an environment where interruptions are minimal (most of the interrupts are routed to me), and context switching is avoided as much as possible.  As a consequence, I expect this to enable you to have prolonged focus on project work.
+* I strive to create an environment where interruptions are minimal, and context switching is avoided as much as possible.  There are scenarios where this is not always possible but when it is, I expect this to enable you to focus on moving project work forward.
 
 * Solicit initial feedback early and ship often.  I have found early, light-weight reviews and iterating rapidly on small chunks of work to be beneficial to successful outcomes.
 
@@ -25,6 +25,8 @@ This Manager README is meant to serve as an onboarding document to my management
 * I follow the [servant leadership philosophy](https://en.wikipedia.org/wiki/Servant_leadership).  I am here to empower you to achieve both your goals and the team’s objectives, but you are in the driver’s seat!
 
 * You can expect me to have a recurring 1:1 with you.  This meeting is _not_ intended for status updates, and is meant to cover bigger-picture items like career development, strategizing on goals, or anything generally of substance.  That said, this meeting is for you, and we’ll discuss whatever you like.
+
+* Any meeting I schedule will have guest modification permissions enabled by default (i.e., you have the power to change a meeting invite)
 
 * Work/life balance is extremely important to me personally, and something I take very seriously with anyone I manage.  If you find that your workload requires you to consistently put in extra time during off-hours, then something is wrong.  Please raise this immediately and we'll work together to take corrective action.
 
