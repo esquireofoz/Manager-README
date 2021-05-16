@@ -19,10 +19,14 @@ This Manager README is meant to serve as an onboarding document to my management
 
 * Don't assume people who speak with confidence are necessarily right.  Check (and re-check) your assumptions with multiple people.
 
+* I expect the vast majority of our interactions to be done through broadly accessible, text-based communication channels (e.g., code reviews in GitHub/Bitbucket, questions/answers in team channels Slack, architecture diagrams and feedback in Confluence/JIRA/other sharable mediums and __not__ email, phone, private message, etc.).  There will be exceptions to this (e.g., weekly 1:1s, communicating items of a sensitive nature, items which are only relevant directly to you and me, etc.), however those should be the exception and not the rule.  I view these {semi}public interactions as very valuable and use them to ensure we are all on the same page.
+
 ## What you can expect of me:
 * I highly value transparency and strive to be open, honest and approachable.  I want you to feel comfortable asking me anything work-related.  There are some things I may not be able to share, but I am committed to never lying to you.
 
 * I follow the [servant leadership philosophy](https://en.wikipedia.org/wiki/Servant_leadership).  I am here to empower you to achieve both your goals and the team’s objectives, but you are in the driver’s seat!
+
+* You can expect me to explicitly set and communicate priorities for specific work.  My job is to explain both the importance/business context of the work as well as any external dependencies involved.  If things are unclear, please request clarification until you feel we are aligned!
 
 * You can expect me to have a recurring 1:1 with you.  This meeting is _not_ intended for status updates, and is meant to cover bigger-picture items like career development, strategizing on goals, or anything generally of substance.  That said, this meeting is for you, and we’ll discuss whatever you like.
 
@@ -33,6 +37,12 @@ This Manager README is meant to serve as an onboarding document to my management
 * I aim to foster a culture of experimentation and the desire to “fail forward”.  Some of the greatest periods of growth and development happen as a result of rapidly iterating through experimentation and learning from failures.  If you're not making at least _some_ mistakes, you're not pushing yourself hard enough.
 
 * Sometimes I make mistakes.  If you see me violating any of the principals laid out in this document, please tell me immediately and hold me accountable.  I value feedback (especially the critical kind), and am always looking for ways to improve.
+
+### Ownership and the 'why', the 'what' and the 'how'
+Each item of work has a certain amount of context and an associated responsibility matrix associated with it.  This section is intended to break down the ownership model of the work:
+* __why__ -- "Why are we doing this?"  I own this and I am responsible for providing the broader context of why we are doing the work.  I am happy to listen to [and encourage] input on this, but ultimately I am the one making the decision at this level.
+* __what__ -- "What are we doing?"  We _share_ ownership of this, and I expect this to be something you ultimately drive with input from me.  Depending on both the context and the specifics of both your experience and mine, there is a lot of fungibility associated with "the what".
+* __how__ -- "How are we doing this?"  You own this, and are responsible for determining how we do the thing:tm: and driving this forward.  I am happy to provide input on this if desired, but my goal is for you to have as much ownership as possible and ultimately you are the one making the decisions at this level.
 
 ## Dealing with conflict:
 
